@@ -30,7 +30,7 @@
 
 平时喜欢写一些自己的想法，有时也写一些测评，喜欢创作，使用主力工具 Effie 与 Notion ，其他工具使用 Obsidian，偶尔使用Typedown与Typora。
 
-📬 联系我呀
+## 📬 联系我呀
 
 邮箱📫：contact#shang.ac.cn (#换成@)
 
